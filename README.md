@@ -1,13 +1,17 @@
 What is Willcoin? 
 
 Willcoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, Willcoin currently employs a simplified variant of scrypt.
-http://Willcoin.com/
+
+http://Will-coin.com/
 
 License – Much license
 Willcoin is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
 
 Development and contributions – omg developers
-Development is ongoing, and the development team, as well as other volunteers, can freely work in their own trees and submit pull requests when features or bug fixes are ready.
+Developed initially by the Anonymous Group in 2013, new development is ongoing, and the development team, as well as other volunteers, can freely work in their own trees and submit pull requests when features or bug fixes are ready.
+
+Total Production
+The total production will be set at 96 million coins
 
 Version strategy
 Version numbers are following major.minor.patch semantics.
@@ -75,34 +79,3 @@ If you are testing something that can run on one machine, run with the -regtest 
 DEBUG_LOCKORDER
 Willcoin Core is a multithreaded application, and deadlocks or other multithreading bugs can be very difficult to track down. Compiling with -DDEBUG_LOCKORDER (configure CXXFLAGS="-DDEBUG_LOCKORDER -g") inserts run-time checks to keep track of which locks are held, and adds warnings to the debug.log file if inconsistencies are detected.
 
-英文名：willcoin
-
-中文名：威尔币
-
-研发机构：anonymous
-
-恒量发行：9600万枚
-
-算法：scrypt
-
-区块时间：每分钟完成一个区块
-
-预计时间：十年开采完毕
-
-威尔币官网：will-coin.org
-
-威尔币特点：
-
-1.完全去中心化
-
-2.willsend技术
-
-3.每笔交易时间10-20秒
-
-4.SLL超级加密128位
-
-5.低廉手续费
-
-6.交易自由
-
-willcoin
